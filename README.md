@@ -1,5 +1,7 @@
 # KarmaDefender for Android
 
+[![Join the chat at https://gitter.im/eladnava/karmadefender-android](https://badges.gitter.im/eladnava/karmadefender-android.svg)](https://gitter.im/eladnava/karmadefender-android?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 KarmaDefender protects you from the [KARMA Wi-Fi attack](https://insights.sei.cmu.edu/cert/2015/08/instant-karma-might-still-get-you.html) by automatically scanning for and deleting your password-less Wi-Fi networks.
 
 * [Google Play Listing](https://play.google.com/store/apps/details?id=com.eladnava.karmadefender)
