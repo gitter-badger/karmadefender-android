@@ -10,9 +10,9 @@ KarmaDefender protects you from the [KARMA Wi-Fi attack](https://insights.sei.cm
 
 # Screenshots
 
-![Popup](https://raw.github.com/eladnava/karmadefender-android/master/preview/1.png)
-![Main](https://raw.github.com/eladnava/karmadefender-android/master/preview/2.png)
-![Settings](https://raw.github.com/eladnava/karmadefender-android/master/preview/3.png)
+![Popup](https://raw.github.com/eladnava/karmadefender-android/master/preview/screenshot1.png)
+![Main](https://raw.github.com/eladnava/karmadefender-android/master/preview/screenshot2.png)
+![Settings](https://raw.github.com/eladnava/karmadefender-android/master/preview/screenshot3.png)
 
 # Requirements
 
