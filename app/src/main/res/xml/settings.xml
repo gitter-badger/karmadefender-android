@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings">
+    <PreferenceCategory
+        android:title="@string/karmadefender">
+        <CheckBoxPreference
+            android:key="@string/enable_pref"
+            android:title="@string/enable"
+            android:summary="@string/enable_desc"
+            android:defaultValue="@string/enable_default"/>
+        <EditTextPreference
+            android:key="@string/scan_interval_pref"
+            android:title="@string/scan_interval"
+            android:inputType="number"
+            android:summary="@string/scan_interval_desc"
+            android:defaultValue="@string/scan_interval_default"
+            android:dependency="@string/enable_pref"/>
+    </PreferenceCategory>
+</PreferenceScreen>
